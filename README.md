@@ -1,4 +1,4 @@
-[Popcorn Time for Android](https://github.com/butterproject/android)
+[Butter for Android](https://github.com/butterproject/android)
 ----
 
 Allow any Android user to watch movies easily streaming from torrents, without any particular knowledge.
